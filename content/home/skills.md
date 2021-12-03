@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, C/C++
+- description: Python, C/C++, Verilog
   icon: code
   icon_pack: fas
   name: Programming
@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Data Science
-- description: ROS, LoCoBot
+- description: ROS, PyRobot, LoCoBot
   icon: tools
   icon_pack: fas
-  name: Basics Robotics
+  name: Robotics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

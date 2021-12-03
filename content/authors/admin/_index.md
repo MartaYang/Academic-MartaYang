@@ -27,7 +27,7 @@ education:
   courses:
   - course: MSE in CS 
     institution: Institute of Computing Technology (ICT), University of Chinese Academy of Sciences (UCAS)
-    year: 2019-2022
+    year: 2019-2022 (expected)
     # year: 09.2019 - 06.2022
   - course: Exchange Program #in CS
     institution: École Polytechnique Fédérale de Lausanne (EPFL)
@@ -50,9 +50,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?hl=zh-CN&user=1_rLusQAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/MartaYang
@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf
+  link: uploads/CV_FengyuanYang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,8 +74,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Master candidate at [VIPL research group](https://vipl.ict.ac.cn/en/index.php), [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. XiLin Chen](http://people.ucas.ac.cn/~xlchen?language=en), and co-supervised by [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm). Prior to that, I received the Bachelor of Engineering degree in Computer Science and Technology from [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2019. During that period, I also completed a student exchange program of Computer Science in [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018.
+I am a Master candidate at [VIPL research group](https://vipl.ict.ac.cn/en/index.php), [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), under the supervision of [Prof. Xilin Chen](http://people.ucas.ac.cn/~xlchen?language=en) and [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm). Prior to that, I received the Bachelor of Engineering degree in Computer Science and Technology from [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2019. During that period, I also completed a student exchange program of Computer Science in [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018.
 
-My research interests lie in the field of Computer Vision. My main focus is on how to use semantic knowledge in Few-Shot Learning. I am also interested in Robotics.
+My research interests lie in the field of Computer Vision. My main focus is on how to use semantic knowledge in Few-Shot Learning. I am also interested in Robotics where I have some experience in using [ROS](https://www.ros.org/) and [PyRobot](https://pyrobot.org/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_FengyuanYang.pdf" "newtab" >}}resumé{{< /staticref >}}.
