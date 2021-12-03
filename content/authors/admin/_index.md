@@ -74,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Master candidate at [VIPL research group](https://vipl.ict.ac.cn/en/index.php), [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), under the supervision of [Prof. XiLin Chen](http://people.ucas.ac.cn/~xlchen?language=en) and [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/personal.htm). Prior to that, I received the Bachelor of Engineering degree in Computer Science and Technology from [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2019. During that period, I also completed a student exchange program of Computer Science in [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018.
+I am a Master candidate at [VIPL research group](https://vipl.ict.ac.cn/en/index.php), [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. XiLin Chen](http://people.ucas.ac.cn/~xlchen?language=en), and co-supervised by [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm). Prior to that, I received the Bachelor of Engineering degree in Computer Science and Technology from [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2019. During that period, I also completed a student exchange program of Computer Science in [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018.
 
 My research interests lie in the field of Computer Vision. My main focus is on how to use semantic knowledge in Few-Shot Learning. I am also interested in Robotics.
 
