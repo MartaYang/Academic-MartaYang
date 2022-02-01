@@ -45,14 +45,14 @@ featured: true
 # - name: PDF
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2111.04316'
+url_pdf: 'https://openaccess.thecvf.com/content/WACV2022/papers/Yang_SEGA_Semantic_Guided_Attention_on_Visual_Prototype_for_Few-Shot_Learning_WACV_2022_paper.pdf'
 url_code: 'https://github.com/MartaYang/SEGA'
 url_dataset: ''
 url_poster: 'https://drive.google.com/file/d/1puhSHZMRHVi4SyFuBkVFrpgUBqimxYIf/view?usp=sharing'
 url_project: ''
 url_slides: 'https://drive.google.com/file/d/1S02Vkub4jN_HP085ijti5vOKXWo-ZJhL/view?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1sij3DS1oxLFrCDKIDUrtbGyKtBAQ0L3p/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
