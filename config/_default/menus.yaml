@@ -10,11 +10,11 @@ main:
   - name: News
     url: '#news'
     weight: 20
-  - name: Awards
-    url: '#accomplishments'
-    weight: 30
   - name: Publications
     url: '#publication'
+    weight: 30
+  - name: Awards
+    url: '#accomplishments'
     weight: 40
   - name: Projects
     url: '#projects'

@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: fengyuan.yang@vipl.ict.ac.cn
+email: fengyuan.yang@u.nus.edu
 phone: +86 15810536858
-address:
-  street: No. 6, Kexueyuan South Road, Institute of Computing Technology, Chinese Academy of Sciences
-  city: Beijing
-  # region: CA
-  postcode: '100190'
-  country: P. R. China
-  country_code: "CN"
-coordinates:
-  latitude: '39.980627'
-  longitude: '116.320628'
+# address:
+#   street: No. 6, Kexueyuan South Road, Institute of Computing Technology, Chinese Academy of Sciences
+#   city: Beijing
+#   # region: CA
+#   postcode: '100190'
+#   country: P. R. China
+#   country_code: "CN"
+# coordinates:
+#   latitude: '39.980627'
+#   longitude: '116.320628'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'

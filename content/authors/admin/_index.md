@@ -6,28 +6,31 @@ title: Fengyuan Yang
 superuser: true
 
 # Role/position/tagline
-role: Master student in Computer Science
+role: PhD. student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ICT, UCAS
-  url: http://english.ict.cas.cn/
+- name: SoC, NUS
+  url: https://www.comp.nus.edu.sg/cs/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the field of Computer Vision. My main focus is on how to use semantic knowledge in Few-Shot Learning. I am also interested in Robotics.
+bio: My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation during my Ph.D. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
 
 # Interests to show in About widget
 interests:
 - Computer Vision
+- Human Pose Estimation
 - Few-Shot Learning
-- Robotics
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in CS 
+    institution: School of Computing (SoC), National University of Singapore (NUS)
+    year: 2022-Present
   - course: MSE in CS 
     institution: Institute of Computing Technology (ICT), University of Chinese Academy of Sciences (UCAS)
-    year: 2019-2022 (expected)
+    year: 2019-2022
     # year: 09.2019 - 06.2022
   - course: Exchange Program #in CS
     institution: École Polytechnique Fédérale de Lausanne (EPFL)
@@ -45,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fengyuan.yang@vipl.ict.ac.cn'
+  link: 'mailto:fengyuan.yang@u.nus.edu'
   # link: '/#contact'
 # - icon: twitter
 #   icon_pack: fab
@@ -74,8 +77,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a Master candidate at [VIPL research group](https://vipl.ict.ac.cn/en/index.php), [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), under the supervision of [Prof. Xilin Chen](http://people.ucas.ac.cn/~xlchen?language=en) and [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm). Prior to that, I received the Bachelor of Engineering degree in Computer Science and Technology from [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2019. During that period, I also completed a student exchange program of Computer Science in [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018. 
+I am currently a Ph.D. candidate at the [CVML group](https://cvml.comp.nus.edu.sg/) of the National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). Before joining NUS, I earned both my Master's and Bachelor's degrees at the [VIPL research group](https://vipl.ict.ac.cn/en/index.php) of the [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), under the guidance of [Prof. Xilin Chen](http://people.ucas.ac.cn/~xlchen?language=en) and [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm). 
 
-My research interests lie in the field of Computer Vision. My main focus is on how to use semantic knowledge in Few-Shot Learning. I am also interested in Robotics where I have some experience in using [ROS](https://www.ros.org/) and [PyRobot](https://pyrobot.org/).
+<!-- I received my Bachelor of Engineering degree in Computer Science and Technology from UCAS in 2019 and completed a student exchange program in Computer Science at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018. -->
+
+My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation during my Ph.D. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
+
+<!-- I am also interested in Robotics where I have some experience in using [ROS](https://www.ros.org/) and [PyRobot](https://pyrobot.org/). -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_FengyuanYang.pdf" "newtab" >}}resumé{{< /staticref >}}.

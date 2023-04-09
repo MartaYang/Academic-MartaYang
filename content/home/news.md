@@ -49,6 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
+**\[Oct. 11, 2022\]**: One paper was accepted to **WACV 2023**!
+
+**\[Aug. 09, 2022\]**: I joined CVML research group, SoC, NUS as a PhD. student!
+
 **\[Oct. 13, 2021\]**: One paper was accepted to **WACV 2022**!
 
 **\[Jun. 14, 2020\]**: Winner of "NI" Track in **CVPR2020 CLVision Workshop Challenge**!
