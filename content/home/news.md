@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
+**\[Mar. 27, 2024\]**: One paper was accepted to **CVPR 2024**!
+
 **\[Oct. 11, 2022\]**: One paper was accepted to **WACV 2023**!
 
 **\[Aug. 09, 2022\]**: I joined CVML research group, SoC, NUS as a PhD. student!
