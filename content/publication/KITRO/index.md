@@ -14,11 +14,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-03-27T00:00:00Z"
+date: "2024-02-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-27T00:00:00Z"
+publishDate: "2024-02-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -56,10 +56,10 @@ url_source: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'The illustration diagram shows the motivation of ours latent parts embedding.'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'The illustration diagram shows the motivation of ours latent parts embedding.'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

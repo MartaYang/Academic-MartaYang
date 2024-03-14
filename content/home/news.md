@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
-**\[Mar. 27, 2024\]**: One paper was accepted to **CVPR 2024**!
+**\[Feb. 27, 2024\]**: One paper was accepted to **CVPR 2024**!
 
 **\[Oct. 11, 2022\]**: One paper was accepted to **WACV 2023**!
 
