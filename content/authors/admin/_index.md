@@ -14,12 +14,13 @@ organizations:
   url: https://www.comp.nus.edu.sg/cs/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation during my Ph.D. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
+bio: My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation in the world coordinate during my Ph.D. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
 
 # Interests to show in About widget
 interests:
 - Computer Vision
 - Human Pose Estimation
+- Camera Motion
 - Few-Shot Learning
 
 # Education to show in About widget
@@ -81,7 +82,7 @@ I am currently a Ph.D. candidate at the [CVML group](https://cvml.comp.nus.edu.s
 
 <!-- I received my Bachelor of Engineering degree in Computer Science and Technology from UCAS in 2019 and completed a student exchange program in Computer Science at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018. -->
 
-My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation during my Ph.D. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
+My research interests encompass the field of Computer Vision, with a particular emphasis on 3D Human Pose Estimation during my Ph.D. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
 
 <!-- I am also interested in Robotics where I have some experience in using [ROS](https://www.ros.org/) and [PyRobot](https://pyrobot.org/). -->
 

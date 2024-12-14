@@ -45,21 +45,21 @@ featured: true
 # - name: PDF
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_KITRO_Refining_Human_Mesh_by_2D_Clues_and_Kinematic-tree_Rotation_CVPR_2024_paper.pdf'
 url_code: 'https://github.com/MartaYang/KITRO'
 url_dataset: ''
-# url_poster: 'https://drive.google.com/file/d/1puhSHZMRHVi4SyFuBkVFrpgUBqimxYIf/view?usp=sharing'
+url_poster: 'https://drive.google.com/file/d/1BKIhEegG5bCWqG8g7QUbn4cuCNqbuegb/view?usp=sharing'
 url_project: ''
 # url_slides: 'https://drive.google.com/file/d/1S02Vkub4jN_HP085ijti5vOKXWo-ZJhL/view?usp=sharing'
 url_source: ''
-# url_video: 'https://drive.google.com/file/d/1sij3DS1oxLFrCDKIDUrtbGyKtBAQ0L3p/view?usp=sharing'
+url_video: 'https://drive.google.com/file/d/1y9seM3txb1ht9LQfyQbXTBO15pSGHbmI/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'The illustration diagram shows the motivation of ours latent parts embedding.'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'The framework overview of our KITRO.'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
