@@ -49,15 +49,17 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
-**\[Feb. 27, 2024\]**: One paper was accepted to **CVPR 2024**!
+**\[Jun 2025\]**: One paper was accepted to **ICCV 2025**!
 
-**\[Oct. 11, 2022\]**: One paper was accepted to **WACV 2023**!
+**\[Feb 2024\]**: One paper was accepted to **CVPR 2024**!
 
-**\[Aug. 09, 2022\]**: I joined CVML research group, SoC, NUS as a PhD. student!
+**\[Oct 2022\]**: One paper was accepted to **WACV 2023**!
 
-**\[Oct. 13, 2021\]**: One paper was accepted to **WACV 2022**!
+**\[Aug 2022\]**: I joined CVML research group, SoC, NUS as a PhD. student!
 
-**\[Jun. 14, 2020\]**: Winner of "NI" Track in **CVPR2020 CLVision Workshop Challenge**!
+**\[Oct 2021\]**: One paper was accepted to **WACV 2022**!
+
+**\[Jun 2020\]**: Winner of "NI" Track in **CVPR2020 CLVision Workshop Challenge**!
 
 <!-- **\[Aug. 10, 2020\]**: The code of our HetH (ECCV 2020) was released. -->
 
@@ -67,4 +69,4 @@ subtitle = ""
 
 <!-- **\[Mar. 1, 2019\]**: One paper was accepted to **CVPR 2019**! -->
 
-**\[Sept. 1, 2019\]**: I joined the VIPL research group, ICT, CAS as a Master student!
+**\[Sept 2019\]**: I joined the VIPL research group, ICT, CAS as a Master student!

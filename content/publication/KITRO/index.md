@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The IEEE/CVF Conference on Computer Vision and Pattern Recognition*
-publication_short: In *CVPR2024*
+publication_short: In *CVPR 2024*
 
 abstract: 2D keypoints are commonly used as an additional cue to refine estimated 3D human meshes.  Current methods optimize the pose and shape parameters with a reprojection loss on the provided 2D keypoints. Such an approach, while simple and intuitive, has limited effectiveness because the optimal solution is hard to find in ambiguous parameter space and may sacrifice depth. Additionally, divergent gradients from distal joints complicate and deviate the refinement of proximal joints in the kinematic chain. To address these, we introduce Kinematic-Tree Rotation (KITRO), a novel mesh refinement strategy that explicitly models depth and human kinematic-tree structure. KITRO treats refinement from a bone-wise perspective.  Unlike previous methods which perform gradient-based optimizations, our method calculates bone directions in closed form.  By accounting for the 2D pose, bone length, and parent joint's depth, the calculation results in two possible directions for each child joint. We then use a decision tree to trace binary choices for all bones along the human skeleton's kinematic-tree to select the most probable hypothesis. Our experiments across various datasets and baseline models demonstrate that KITRO significantly improves 3D joint estimation accuracy and achieves an ideal 2D fit simultaneously. 
 
