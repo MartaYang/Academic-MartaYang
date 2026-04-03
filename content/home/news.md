@@ -49,9 +49,11 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
-**\[Jun 2025\]**: One paper was accepted to **ICCV 2025**!
+**\[Feb 2026\]**: HumanBA was accepted to **CVPR 2026**!
 
-**\[Feb 2024\]**: One paper was accepted to **CVPR 2024**!
+**\[Jun 2025\]**: Humans-as-Checkerboards was accepted to **ICCV 2025**!
+
+**\[Feb 2024\]**: KITRO was accepted to **CVPR 2024**!
 
 **\[Oct 2022\]**: One paper was accepted to **WACV 2023**!
 
