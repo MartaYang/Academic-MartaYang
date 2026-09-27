@@ -16,7 +16,7 @@ main:
   - name: Awards
     url: '#accomplishments'
     weight: 40
-  - name: Projects
+  - name: Earlier Projects
     url: '#projects'
     weight: 50
   - name: Skills

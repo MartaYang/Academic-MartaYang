@@ -1,0 +1,26 @@
+// Four skills form two balanced columns on larger screens and stack on mobile.
+@media (min-width: 576px) {
+  #skills .featurette > .col-sm-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+.career-note {
+  margin: 1rem 0;
+  color: #9f3038;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+}
+
+.dark .career-note {
+  color: #f6b5af;
+}

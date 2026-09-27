@@ -6,7 +6,7 @@ title: Fengyuan Yang
 superuser: true
 
 # Role/position/tagline
-role: PhD. student in Computer Science
+role: Final-year Ph.D. candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,22 +14,29 @@ organizations:
   url: https://www.comp.nus.edu.sg/cs/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "My research focuses on human-centric motion reconstruction and video generation. I explore both directions: recovering human motion, camera movement, and scene background from videos, as well as generating new videos by flexibly combining these decomposed elements. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning."
+bio: "My research focuses on controllable video generation and human-centric 3D/4D vision, with broader interests in world modeling and its potential applications to embodied intelligence."
 
 # Interests to show in About widget
 interests:
-- Global Human-Scene-Camera Reconstruction
-- Human-Centric Video Generation
-- 3D Human Motion
-- Few-Shot Learning
+- Controllable Video Generation
+- Human-centric 3D/4D Reconstruction
+- World Modeling
+- Embodied Intelligence
+
+# Brief experience displayed below Interests in the About widget.
+experience:
+- role: Research Intern
+  company: Baidu AMU
+  dates: Jul 2025 – Sep 2026
+  # description: 'Controllable video generation<br>[ONE-SHOT](/publication/one-shot/) (NeurIPS 2026).'
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in CS 
+  - course: PhD in CS
     institution: School of Computing (SoC), National University of Singapore (NUS)
     year: 2022-Present
-  - course: MSE in CS 
+  - course: MSE in CS
     institution: Institute of Computing Technology (ICT), University of Chinese Academy of Sciences (UCAS)
     year: 2019-2022
     # year: 09.2019 - 06.2022
@@ -65,7 +72,7 @@ social:
 #   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -78,12 +85,17 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a Ph.D. candidate at the [CVML group](https://cvml.comp.nus.edu.sg/) of the National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). Before joining NUS, I earned both my Master's and Bachelor's degrees at the [VIPL research group](https://vipl.ict.ac.cn/en/index.php) of the [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), under the guidance of [Prof. Xilin Chen](http://people.ucas.ac.cn/~xlchen?language=en) and [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm). 
+I am currently a final-year Ph.D. candidate at the [CVML group](https://cvml.comp.nus.edu.sg/) of the National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). Before joining NUS, I earned both my Master's and Bachelor's degrees at the [VIPL research group](https://vipl.ict.ac.cn/en/index.php) of the [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), under the guidance of [Prof. Xilin Chen](http://people.ucas.ac.cn/~xlchen?language=en) and [Prof. Ruiping Wang](https://vipl.ict.ac.cn/homepage/rpwang/index.htm).
 
 <!-- I received my Bachelor of Engineering degree in Computer Science and Technology from UCAS in 2019 and completed a student exchange program in Computer Science at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in 2018. -->
 
-My research focuses on human-centric motion reconstruction and video generation. I explore both directions: recovering human motion, camera movement, and scene background from videos, as well as generating new videos by flexibly combining these decomposed elements. Previously, during my Master's studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.
+My research focuses on controllable video generation and human-centric 3D/4D vision. I study how to recover and decouple human motion, camera trajectories, and scenes from videos, and use these factors as independently editable controls to compose coherent videos. Building on this work, I am interested in world modeling and its potential applications to embodied intelligence. Previously, my master's research explored semantic-guided few-shot learning.
 
 <!-- I am also interested in Robotics where I have some experience in using [ROS](https://www.ros.org/) and [PyRobot](https://pyrobot.org/). -->
 
+{{< career-note >}}
+I expect to graduate in **early 2027** and am seeking **full-time opportunities**. Please feel free to [contact me](mailto:fengyuan.yang@u.nus.edu)!
+{{< /career-note >}}
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_FengyuanYang.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

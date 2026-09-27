@@ -1,0 +1,12 @@
+{{/* Keep local preview visits out of the production homepage statistics. */}}
+{{ if and hugo.IsProduction .IsHome }}
+<!-- Statcounter code for martayang https://martayang.github.io/ -->
+<script>
+  var sc_project = 13069299;
+  var sc_invisible = 1;
+  var sc_security = "9e770a7e";
+</script>
+<script src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank" rel="noopener"><img class="statcounter" src="https://c.statcounter.com/13069299/0/9e770a7e/1/" alt="Web Analytics" referrerpolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+{{ end }}

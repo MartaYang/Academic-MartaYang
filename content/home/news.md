@@ -49,7 +49,11 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
+**\[Sep 25, 2026\]**: ONE-SHOT was accepted to **NeurIPS 2026**!
+
 **\[Feb 2026\]**: HumanBA was accepted to **CVPR 2026**!
+
+**\[Jul 2025\]**: I joined **Baidu** as a research intern, working on controllable video generation.
 
 **\[Jun 2025\]**: Humans-as-Checkerboards was accepted to **ICCV 2025**!
 

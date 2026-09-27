@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, C/C++, Verilog
+- description: Python, C/C++<br>PyTorch, Diffusers
   icon: code
   icon_pack: fas
-  name: Programming
-- description: Scikit-Learn, Pandas, NumPy, Matplotlib<br>Common Machine Learning Models
-  icon: chart-line
+  name: Programming & Frameworks
+- description: Diffusion / Flow Matching<br>DiT, Multimodal Conditioning
+  icon: film
   icon_pack: fas
-  name: Data Science
-- description: ROS, PyRobot, LoCoBot
-  icon: tools
+  name: Generative Models
+- description: SMPL/SMPL-X, SLAM<br>Bundle Adjustment, Camera Geometry
+  icon: cubes
   icon_pack: fas
-  name: Robotics
+  name: 3D/4D Vision
+- description: LoRA, DeepSpeed<br>Multi-GPU Training
+  icon: server
+  icon_pack: fas
+  name: Training
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
