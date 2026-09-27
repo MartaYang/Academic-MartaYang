@@ -52,8 +52,8 @@ url_dataset: ''
 # url_project: 'https://martayang.github.io/HAC'
 # url_slides: 'https://drive.google.com/file/d/1S02Vkub4jN_HP085ijti5vOKXWo-ZJhL/view?usp=sharing'
 url_source: ''
-# url_video: 'https://youtu.be/_tl6dZo0C8E?si=YaNjfvp_t74Ph0mr'
-# url_pdf: 'https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Humans_as_Checkerboards_Calibrating_Camera_Motion_Scale_for_World-Coordinate_Human_ICCV_2025_paper.pdf'
+url_video: 'https://www.youtube.com/watch?v=B1JwR0bUeSI&t=2s'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_HumanBA_Human-Aware_Bundle_Adjustment_via_Global_Human-Camera_Decoupling_CVPR_2026_paper.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
